@@ -26,7 +26,11 @@ ZenPomodoro is a premium, distraction-free, and highly aesthetic Pomodoro timer 
 
 Since ZenPomodoro is written with zero dependencies, you can open and run it instantly on a fresh machine.
 
-### Method 1: The Offline Instant Way (Zero Tooling)
+#### Method : Live URL
+
+**https://muhammadawais-32013.github.io/DevWF-Assement/**
+
+### The Offline Instant Way (Zero Tooling)
 Simply double-click the `index.html` file or drag it directly into any modern web browser (Chrome, Firefox, Safari, Edge, etc.):
 ```bash
 # On Linux / macOS

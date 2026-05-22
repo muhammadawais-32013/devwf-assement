@@ -6,7 +6,11 @@ This document contains detailed responses to the 5 evaluation questions for the 
 
 ### 1. How to Run
 
-ZenPomodoro is engineered with a zero-dependency, pure vanilla stack. You can run it instantly on any fresh machine using any of the following methods:
+ZenPomodoro is engineered with a zero-dependency, pure vanilla stack. You can run it instantly on below url and method.
+
+#### Method : Live URL
+
+**https://muhammadawais-32013.github.io/DevWF-Assement/**
 
 #### Method : Double-Click (Zero Tooling Required)
 Since all styles, logics, and audio elements are completely self-contained, you can double-click `index.html` or drag it directly into any modern web browser (Chrome, Firefox, Safari, Edge) to run it offline.
