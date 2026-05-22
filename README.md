@@ -2,7 +2,6 @@
 
 ZenPomodoro is a premium, distraction-free, and highly aesthetic Pomodoro timer web application. Built entirely with a pure, lightweight vanilla frontend stack (HTML5, CSS3, and ES6+ JavaScript), it delivers a high-end desktop experience without any external framework weight or internet dependencies.
 
-![ZenPomodoro UI](file:///home/muhammad-awais-qarni/.gemini/antigravity/brain/2eae92ca-2541-4c35-86e3-06a6705e861b/.system_generated/click_feedback/click_feedback_1779455451245.png)
 
 ---
 
