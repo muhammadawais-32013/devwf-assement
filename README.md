@@ -36,24 +36,6 @@ open index.html
 start index.html
 ```
 
-### Method 2: Local HTTP Server (Recommended)
-If you prefer to run it through a standard local web port, use any of these single-command options:
-
-#### Using Python (Pre-installed on most systems)
-```bash
-python3 -m http.server 8000
-```
-Then navigate to: **[http://localhost:8000](http://localhost:8000)**
-
-#### Using Node.js / npm
-```bash
-# Instant server without installing globally
-npx serve .
-```
-Then navigate to the URL shown in the terminal (usually **[http://localhost:3000](http://localhost:3000)**).
-
----
-
 ## 📁 File Structure
 
 ```
